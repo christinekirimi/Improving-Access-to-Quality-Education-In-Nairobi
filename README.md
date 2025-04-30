@@ -1,3 +1,4 @@
+![vidiq_thumbnail_1 (6)](https://github.com/user-attachments/assets/162917a6-d35e-4657-a381-263877d0ce47)
 ### INTRODUCTION
 This analysis aims to identify and address disparities in access to quality primary education across Nairobi County. Leveraging data from the Education Facilities dataset and the Kenya Population and Housing Census, this project focuses on:
 
